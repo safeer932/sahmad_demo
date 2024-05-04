@@ -1,8 +1,0 @@
-if [safeer $akkash -eq 20 ]
-then
-echo "show the file"
-else
-echo "dotnshow the file"
-fi
-
-safeer le patronnnn
